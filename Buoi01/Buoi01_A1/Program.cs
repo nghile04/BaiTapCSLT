@@ -1,4 +1,5 @@
-﻿using System;
+﻿//cap nhat mo ta
+using System;
 /*
 * Bài: Buoi01_A1 - Cài đặt môi trường, tạo
 project HelloWorld
