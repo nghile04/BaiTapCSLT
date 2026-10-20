@@ -1,4 +1,6 @@
-﻿/*
+﻿//cap nhat mo ta
+
+/*
 * Bài: Buoi01_A4 - Săn lỗi: cố ý gây lỗi và đọc thông báo
 * Sinh viên: Lê Trần Bảo Nghi - MSSV: 31251024972
 * Ngày: 21/10/2026
