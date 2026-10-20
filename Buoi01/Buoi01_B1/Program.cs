@@ -1,4 +1,5 @@
-﻿/*
+﻿//cap nhat mo ta
+/*
 * Bài: Buoi01_B1 - Thời khóa biểu canh cột
 * Sinh viên: Lê Trần Bảo Nghi - MSSV: 31251024972
 * Ngày: 21/10/2026
