@@ -1,4 +1,6 @@
-﻿/*
+﻿//cap nhat mo ta
+
+/*
 * Bài: Buoi01_A3 - Vẽ hình bằng ký tự
 * Sinh viên: Lê Trần Bảo Nghi - MSSV: 31251024972
 * Ngày: 21/10/2026
