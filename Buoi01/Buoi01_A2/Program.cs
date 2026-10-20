@@ -1,4 +1,6 @@
-﻿/*
+﻿//cap nhat mo ta
+
+/*
 * Bài: Buoi01_A2 - Thẻ giới thiệu bản thân
 * Sinh viên: Lê Trần Bảo Nghi - MSSV: 31251024972
 * Ngày: 21/10/2026
